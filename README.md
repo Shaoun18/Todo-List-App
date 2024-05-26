@@ -63,7 +63,7 @@ This is a simple to-do list application built using Laravel.
 4. Update the `.env` file to use SQLite:
    ```env
    DB_CONNECTION=sqlite
-   DB_DATABASE=/path/to/your/database/database.sqlite
+   DB_DATABASE=/path_to_your_database/database.sqlite
    ```
 
 5. Run migrations:
