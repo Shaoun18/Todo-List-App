@@ -1,6 +1,3 @@
-Certainly! Below are the steps to set up my project and push it to a GitHub repository. I'll also include the final `README.md` file with all the necessary details.
-
-### Step 1: Initialize Git and Create GitHub Repository
 
 1. **Initialize Git in Your Project Directory**:
    ```sh
@@ -39,7 +36,7 @@ This is a simple to-do list application built using Laravel.
 
 - PHP (>=7.3)
 - Composer
-- SQLite
+- SQLite(Database)
 
 ## Installation
 
@@ -95,36 +92,6 @@ This is a simple to-do list application built using Laravel.
 
 ![Edit Task](screenshots/edit_task.png)
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-```
-
-### Step 3: Capture and Add Screenshots
-
-1. **Create Screenshots**:
-   - Capture screenshots of the task list, create task form, and edit task form.
-   - Save the screenshots in a `screenshots` directory within your project.
-
-2. **Add Screenshots to Git**:
-   ```sh
-   mkdir screenshots
-   # Move your screenshots to the 'screenshots' directory
-   git add screenshots
-   git commit -m "Add screenshots"
-   git push origin master
-   ```
-
-### Step 4: Final Push to GitHub
-
-Make sure all your changes are committed and pushed to GitHub:
-```sh
-git add .
-git commit -m "Final project setup with README.md and screenshots"
-git push origin master
-```
-
-Now, My project should be successfully submitted on GitHub with all the necessary files and instructions. i can share the repository link with anyone who needs to access it.
 ## Authors
 
 - [@shaoun18](https://www.github.com/shaoun18)
