@@ -1,25 +1,4 @@
 
-1. **Initialize Git in Your Project Directory**:
-   ```sh
-   cd /path/to/your/todolist
-   git init
-   ```
-
-2. **Create a New Repository on GitHub**:
-    - Go to GitHub and create a new repository (e.g., `todolist`).
-    - Do not initialize the repository with a README, .gitignore, or license.
-
-3. **Add Remote Repository and Push Initial Commit**:
-   ```sh
-   git remote add origin https://github.com/username/todolist.git
-   git add .
-   git commit -m "Initial commit"
-   git push -u origin master
-   ```
-
-### Step 2: Final `README.md` File
-
-Create or update the `README.md` file with the following content:
 
 ```md
 # To-Do List Application
